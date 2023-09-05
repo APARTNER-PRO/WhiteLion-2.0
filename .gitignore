@@ -1,0 +1,11 @@
+# /media/*/
+# _install/
+# /import/
+# /cache/
+# /vendor/
+# /*.sql
+# .idea/
+# *.zip
+# *.xml
+# *.gz
+# robots.txt
